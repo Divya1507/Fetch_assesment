@@ -4,12 +4,12 @@ This Python script checks endpoint availability and calculates availability perc
 
 ## How to Run
 
-### Prerequisites
+## Prerequisites
 - Ensure Python is installed on your system.
 - Install any required dependencies (if applicable).
 
-### Steps to Execute
-### 1. Open a Command Prompt (cmd) or Terminal.
+## Steps to Execute
+## 1. Open a Command Prompt (cmd) or Terminal.
 ## 2. Navigate to the directory where the files are located using:
 cd path/to/your/directory
 Example:
@@ -21,7 +21,7 @@ python health_check.py --configfile=config.yaml
 ## 4. Check the console output for results.
 ## 5. Stop Execution: Press 'Ctrl + C' to stop the continuous execution.
 
-### Optional Improvements
+## Optional Improvements
 Clarify dependencies: If your script uses external libraries (like 'requests' or 'PyYAML'), 
 add:
 pip install -r requirements.txt
